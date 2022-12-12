@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/currences.json</file>
+        <file>res/exchangerate-api</file>
+    </qresource>
+</RCC>
